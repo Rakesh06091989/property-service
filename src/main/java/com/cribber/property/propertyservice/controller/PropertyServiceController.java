@@ -25,7 +25,7 @@ public class PropertyServiceController {
   static {
     PropertyDetails propertyDetails1 = new PropertyDetails();
     propertyDetails1.setArea("Solna");
-    propertyDetails1.setType("apartment");
+    propertyDetails1.setType("aparttment");
     propertyDetails1.setNumOfBedrooms("1");
     propertyDetails1.setPropertyId("1");
     propertyDetails1.setSize("50");
